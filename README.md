@@ -1,4 +1,4 @@
-# Stock Prediction project
+# Stock Prediction project  :chart_with_upwards_trend:
 
 
 본 프로젝트는 머신러닝과 딥러닝을 포함한 다양한 방법으로 주가를 예측하고자 진행한 프로젝트입니다.
@@ -15,6 +15,9 @@
   - pandas_datareader(get_data_yahoo) 로 주가 데이터 수집
   - tensorflow 의 LSTM 예측 모델 생성
   
+
+--------------------
+
  
 #### cf1) tensorflow 설치 과정
 
